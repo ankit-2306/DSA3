@@ -2,3 +2,4 @@ GRAPH Algos:-
 
 1. Traversal algos:
     A. DFS  B. BFS
+2. Cycle detection in Undirected graph
