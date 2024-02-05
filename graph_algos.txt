@@ -4,3 +4,4 @@ GRAPH Algos:-
     A. DFS  B. BFS
 2. Cycle detection in Undirected graph
 3. Topological Sort.
+4. Dijkastra Algo
