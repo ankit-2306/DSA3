@@ -5,3 +5,5 @@ GRAPH Algos:-
 2. Cycle detection in Undirected graph
 3. Topological Sort.
 4. Dijkastra Algo.
+5. BellmanFord Algo
+6. DSU Algo
